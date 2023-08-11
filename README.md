@@ -1,5 +1,7 @@
 # LipidParser
- Lipid Parser
+Parse a list of lipids into subclass notation, functional groups, and key side chains.
+Input should be a .csv file.
+
 ## Installation
 1. Clone repository
    * In the repository page click Code>Download ZIP
