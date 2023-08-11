@@ -1,0 +1,5 @@
+re
+pandas
+pygoslin
+tkinter
+jupyterlab
