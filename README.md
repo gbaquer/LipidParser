@@ -17,5 +17,5 @@ Input should be a .csv file.
    ```
    jupyter lab
    ```
-6. In JupyterLab open "Lipid Parser.ipynb"
+6. In JupyterLab open "**LOCATION**/src/Lipid Parser.ipynb"
 7. Click the play button to run.
